@@ -1,4 +1,4 @@
-package com.capgemini.hrmanagement.hr_portal.dto.departmentLocation;
+package com.capgemini.hrmanagement.hr_portal.controller.departmentLocation;
 
 import lombok.Data;
 

@@ -1,7 +1,7 @@
-package com.capgemini.hrmanagement.hr_portal.controller.departmentLocation;
+package com.capgemini.hrmanagement.hr_portal.config;
 
-import com.capgemini.hrmanagement.hr_portal.dto.departmentLocation.DepartmentDTO;
-import com.capgemini.hrmanagement.hr_portal.service.departmentLocation.DepartmentFrontendService;
+import com.capgemini.hrmanagement.hr_portal.controller.departmentLocation.DepartmentDTO;
+import com.capgemini.hrmanagement.hr_portal.dto.departmentLocation.DepartmentFrontendService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;

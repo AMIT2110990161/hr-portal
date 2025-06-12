@@ -1,9 +1,9 @@
-package com.capgemini.hrmanagement.hr_portal.controller.departmentLocation;
+package com.capgemini.hrmanagement.hr_portal.config;
 
-import com.capgemini.hrmanagement.hr_portal.dto.departmentLocation.ApiResponseDto;
-import com.capgemini.hrmanagement.hr_portal.dto.departmentLocation.ApiResponseDtowithoutpage;
-import com.capgemini.hrmanagement.hr_portal.dto.departmentLocation.EmployeeRegionDTO;
-import com.capgemini.hrmanagement.hr_portal.dto.departmentLocation.RegionDTO;
+import com.capgemini.hrmanagement.hr_portal.controller.departmentLocation.ApiResponseDto;
+import com.capgemini.hrmanagement.hr_portal.controller.departmentLocation.ApiResponseDtowithoutpage;
+import com.capgemini.hrmanagement.hr_portal.controller.departmentLocation.EmployeeRegionDTO;
+import com.capgemini.hrmanagement.hr_portal.controller.departmentLocation.RegionDTO;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.stereotype.Controller;
